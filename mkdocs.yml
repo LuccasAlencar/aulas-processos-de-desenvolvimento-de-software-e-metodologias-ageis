@@ -63,8 +63,11 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Aulas:
-    - Aula 1 - O que são Requisitos de Software?: aulas/aula1-levantamento-requisitos.md
-    - Aula 2 - Técnicas, Ferramentas e Metodologias no Levantamento de Requisitos: aulas/aula2-levantamento-requisitos.md
+    - Aula 1 - O que são Requisitos de Software?: aulas/aula1.md
+    - Aula 2 - Técnicas, Ferramentas e Metodologias no Levantamento de Requisitos: aulas/aula2.md
+    - Aula 3 - Tipos de requisitos: aulas/aula3.md
+    - Aula 4 - O que é elicitação de requisitos-: aulas/aula4.md
+
 
 
 
